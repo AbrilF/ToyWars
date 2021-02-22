@@ -1,0 +1,10 @@
+function virtualPetPrint()¨{
+
+    fetch ('')
+
+
+
+
+
+
+}
