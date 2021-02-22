@@ -1,6 +1,8 @@
 function virtualPetPrint()¨{
 
-    fetch ('')
+    fetch ('newPet')
+            method: 'get',
+
 
 
 
